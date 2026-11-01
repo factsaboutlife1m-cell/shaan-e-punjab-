@@ -1,0 +1,6 @@
+{
+  "name": "Shaan-E-Punjab Hotel, Topchanchi",
+  "description": "Premium hotel, multi-cuisine restaurant, resort and banquet venue located in Topchanchi, Dhanbad, Jharkhand on NH-19.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
